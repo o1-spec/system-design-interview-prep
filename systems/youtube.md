@@ -268,3 +268,14 @@ Track:
 ### ✅ Status
 This system design provides a complete blueprint for building a video platform
 with scalable upload, transcoding, and global streaming delivery.
+
+## Interview Follow-Up Questions
+
+1. How would you handle copyright detection?
+2. How would you support live streaming?
+3. How would you recommend videos to users?
+4. How do you reduce transcoding costs?
+5. How do you handle very large uploads reliably?
+6. How would you cache popular videos effectively?
+7. How would you support multiple codecs?
+8. How would you handle regional content restrictions?
