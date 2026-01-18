@@ -271,3 +271,14 @@ Use:
 ### ✅ Status
 This system design shows how to build a reliable, scalable notification system
 with multiple channels and strong failure handling.
+
+## Interview Follow-Up Questions
+
+1. How would you guarantee at-least-once or exactly-once delivery?
+2. How do you handle notification retries without spamming users?
+3. How would you support quiet hours or Do Not Disturb?
+4. How would you scale when sending millions of notifications at once?
+5. How would you design for provider outages (e.g., SMS gateway down)?
+6. How do you prevent abuse or spam?
+7. How would you support localization and templates?
+8. How would you measure notification success?
