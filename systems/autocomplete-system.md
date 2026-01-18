@@ -228,3 +228,15 @@ Monitor:
 ### ✅ Status
 This system design provides a strong blueprint for building a scalable
 autocomplete system with fast lookups, ranking, and reliable updates.
+
+## Interview Follow-Up Questions
+
+1. How would you personalize autocomplete suggestions per user?
+2. How do you handle trending or breaking queries?
+3. How would you update the index in near real-time?
+4. How would you support multiple languages?
+5. How would you reduce memory usage of the trie?
+6. How do you handle extremely hot prefixes?
+7. How would you shard the system globally?
+8. How do you evaluate suggestion quality?
+
