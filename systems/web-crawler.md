@@ -215,3 +215,14 @@ Monitoring ensures crawler health and efficiency.
 ### ✅ Status
 This system design demonstrates how large-scale crawling systems operate
 efficiently while respecting web standards.
+
+## Interview Follow-Up Questions
+
+1. How do you ensure the crawler does not overload a website?
+2. How would you prioritize which pages to crawl first?
+3. How would you detect and avoid spider traps?
+4. How do you handle duplicate or near-duplicate pages?
+5. How would you make the crawler fault tolerant?
+6. How would you scale the URL frontier?
+7. How would you update crawled pages periodically?
+8. How would you store and index crawled content efficiently?
