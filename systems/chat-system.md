@@ -336,3 +336,14 @@ Use:
 ### ✅ Status
 This system design provides a complete high-level blueprint for building a
 scalable chat system with real-time messaging and offline delivery.
+
+## Interview Follow-Up Questions
+
+1. How do you guarantee message ordering?
+2. How would you support end-to-end encryption (E2EE)?
+3. How do you handle message duplication?
+4. How would you scale group chats with thousands of users?
+5. How would you support message search?
+6. How do you sync messages across multiple devices?
+7. How do you handle reconnects and missed messages?
+8. How would you support read receipts efficiently?
