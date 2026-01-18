@@ -303,3 +303,14 @@ Track:
 ### ✅ Status
 This system design completes a full blueprint for building a scalable,
 reliable file storage and synchronization platform.
+
+## Interview Follow-Up Questions
+
+1. How would you handle concurrent edits to the same file?
+2. How would you reduce storage usage from file versioning?
+3. How would you sync very large files efficiently?
+4. How would you support real-time collaboration?
+5. How would you prevent unauthorized access?
+6. How would you handle metadata hot spots?
+7. How would you recover deleted files?
+8. How would you migrate data across storage backends?
