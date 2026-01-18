@@ -211,3 +211,14 @@ Analytics should be processed **asynchronously** using message queues.
 This system design demonstrates core principles of scalability, caching,
 and distributed system trade-offs.
 
+## Interview Follow-Up Questions
+
+1. How would you handle very high traffic for a single popular short URL?
+2. What happens if the cache goes down?
+3. How would you prevent malicious or phishing URLs?
+4. How would you support custom aliases at scale?
+5. How would you delete or expire URLs?
+6. How would you migrate from auto-increment IDs to another ID strategy?
+7. How would you track analytics without impacting redirect latency?
+8. How would you design this system for multiple regions?
+
